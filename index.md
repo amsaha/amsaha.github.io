@@ -5,4 +5,6 @@
 layout: home
 ---
 
-# This is under construction
+- [Home page](https://amsaha.bitbucket.io)
+- [LinkedIn profile](http://www.linkedin.com/in/amsaha)
+- [Photography Site](http://amsaha.smugmug.com/)
